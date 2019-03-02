@@ -1,0 +1,7 @@
+.list-group-item {
+  width: 25rem;
+}
+
+.list-group-item .list-group-item {
+  padding: .25rem .55rem;
+} 

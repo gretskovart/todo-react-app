@@ -1,0 +1,12 @@
+.todo-list-item--done{
+  text-decoration: line-through;
+}
+
+.todo-list-item--important{
+  font-weight: bold;
+  color: steelblue;
+}
+
+.todo-list-item__icons{
+  float: right;
+}
